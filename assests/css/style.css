@@ -11,3 +11,11 @@ body {
 .h2 {
     font: orangered;
 }
+
+p {
+    font-weight: bold;
+}
+
+.text-center {
+    align-items: center;
+}
